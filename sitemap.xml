@@ -4,19 +4,16 @@ layout: nil
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>http://jasonansel.com/</loc>
+      <loc>https://aaronzhangcanyu.github.io/</loc>
     </url>
     <url>
-      <loc>http://jasonansel.com/projects/</loc>
+      <loc>http://aaronzhangcanyu.github.io/dissertation/</loc>
     </url>
     <url>
-      <loc>http://jasonansel.com/publications/</loc>
+      <loc>http://aaronzhangcanyu.github.io/contribution/</loc>
     </url>
     <url>
-      <loc>http://jasonansel.com/experience/</loc>
-    </url>
-    <url>
-      <loc>http://jasonansel.com/hobbies/</loc>
+      <loc>http://aaronzhangcanyu.github.io/informed_consent/</loc>
     </url>
     {% comment %}
     {% for post in site.posts %}
