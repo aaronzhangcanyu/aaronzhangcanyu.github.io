@@ -1,4 +1,4 @@
-title: Canyu Zhang (Aaron)
+title: Canyu Zhang
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
@@ -6,7 +6,7 @@ url: https://aaronzhangcanyu.github.io
 
 # Owner/author information
 owner:
-  name:           Canyu Zhang (Aaron)
+  name:           Canyu Zhang
   avatar:         me.png
 #  bio:
   email:          aaronzhangcanyu@gmail.com
