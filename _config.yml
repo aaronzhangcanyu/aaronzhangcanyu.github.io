@@ -6,15 +6,15 @@ url: https://aaronzhangcanyu.github.io
 
 # Owner/author information
 owner:
-  name:           Canyu Zhang
-  avatar:         me.png
+  name: Canyu Zhang
+  avatar: me.png
 #  bio:
-  email:          aaronzhangcanyu@gmail.com
+  email: aaronzhangcanyu@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:
-  facebook:
-  github: 
-  linkedin: 
+  twitter: https://twitter.com/AaronZhangCanyu
+  facebook: 
+  github: https://github.com/aaronzhangcanyu
+  linkedin: https://www.linkedin.com/in/canyu-zhang-7b118a150/
   instagram:
   lastfm:
   tumblr:
