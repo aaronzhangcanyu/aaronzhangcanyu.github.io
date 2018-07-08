@@ -39,8 +39,8 @@ timezone: Europe/London
 future: true
 pygments: true
 #markdown: kramdown
-#markdown: redcarpet
-markdown: markdown-it
+markdown: redcarpet
+#markdown: markdown-it
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
