@@ -1,0 +1,64 @@
+title: Aaron Zhang
+#tagline:          A short tagline
+#description:      Describe your website.
+#Comment out url when working locally to resolve base urls correctly
+url: https://aaronzhangcanyu.github.io
+
+# Owner/author information
+owner:
+  name:           Aaron Zhang
+  avatar:         me.png
+#  bio:
+  email:          aaronzhangcanyu@gmail.com
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter:
+  facebook:
+  github: 
+  linkedin: 
+  instagram:
+  lastfm:
+  tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About Me
+    url: /
+  - title: My Dissertation
+    url: /dissertation/
+  - title: Make Contribution
+    url: /contribution/
+  - title: Informed Consent
+    url: /informed_consent/
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London
+future: true
+pygments: true
+#markdown: kramdown
+markdown: redcarpet
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+
+
