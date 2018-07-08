@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /informed_consent/index.html
-title: Informed_consent
+title: Informed onsent
 ---
 
 # Informed Consent
