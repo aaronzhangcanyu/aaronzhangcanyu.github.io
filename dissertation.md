@@ -1,37 +1,23 @@
 ---
 layout: page
+permalink: /dissertation/index.html
+title: My Dissertation
 ---
 
-# About Me
+# My Dissertation
 
-<img src="/images/jasonansel3.jpg" class="floatpic" width="200" height="200">
-My name is Jason Ansel.  I am a Director of Engineering at GoDaddy, which
-I joined in 2013 as part of the [acquisition] of the startup [Locu][locu].
-I started working for Locu in 2011, while I was simultaneously pursuing
-my PhD at [MIT][MIT] [CSAIL][CSAIL], which I completed in 2013.  I was the
-first non-founder employee of Locu and my work there and at GoDaddy focuses
-on creating machine learning algorithms for extracting semantic information
-from unstructured web content.
+I am working on my master dissertation at the present stage and the research topic is "Clickbait Detection and Exploration on WeChat Articles". Clickbait (“标题党” in Chinese), is a pejorative term to describe web content in which attractive, exaggerated and misleading titles are deliberately used to lure the audience to click on the links in order to increase commercial revenue. According to the criticism from scholars and pundits, clickbait content is undermining the media credibility to a
+great extent, however, the industry is becoming more and more dependent on this enticing means to attract attention.
 
-I spend some of my free time working on [OpenTuner], an extensible framework
-for program autotuning.  We are currently looking for users, if interested
-the source code is available on the [OpenTuner] site.
+ <p></p>
 
-As part of my PhD dissertation, I started the [PetaBricks] language and
-compiler project.  PetaBricks is a language that incorporates algorithmic
-choices to allow an integrated autotuner to explore search spaces of program
-implementations.  As an undergraduate I did research with [Gene Cooperman]
-and helped create [DMTCP], a user-level distributed checkpoint/restart system.
+As a pioneer of the backlash against clickbait, Facebook has updated its News Feed twice to reduce clickbait headlines to improve user experience because an initial survey conducted by them earlier showed 80 percent of the time people used headlines to decide whether they click the links or not. Compared to the ubiquity of clickbait, which has already incessantly spread on the web for a long time, the emergence of academic articles on this topic occurs in 2015, about one year after the industry backlash. To the best of my knowledge, there is still no research designed for the clickbait detection on WeChat articles only.
 
+ <p></p>
 
-[acquisition]: http://allthingsd.com/20130819/godaddy-acquires-merchant-finder-startup-locu-for-70-million/
-[CSAIL]: http://www.csail.mit.edu/
-[DMTCP]: http://dmtcp.sourceforge.net/
-[Gene Cooperman]: http://www.ccs.neu.edu/home/gene/
-[Locu]: http://locu.com/
-[MIT]: http://www.mit.edu/
-[OpenTuner]: http://opentuner.org/
-[PetaBricks]: http://projects.csail.mit.edu/petabricks/
-[Commit]: http://groups.csail.mit.edu/commit/
-[Saman Amarasinghe]: http://people.csail.mit.edu/saman/
+Natural language processing and machine learning technologies will be used to build a detection model to distinguish a clickbait heandline automatically. I have already collected around 17,000 popular WeChat article headlines from 24 different WeChat subscription accounts categories and 34 different registered areas. For building the detection model, a small part of the headlines should be labelled as clickbait or non-clickbait, and which needs your contribution on this data annotation task. Your kind help would be very significant for my research now and also would be a great motivation for my life in the future. If you are interested or have any question about my research project, please feel free to contact me.
+
+ <p></p>
+
+The data annotation task has been manipulated on a platform called Figure Eight. To participate as a contributor, please read the instructions of the platform carefully at first. For protecting your privacy and keeping the ethics stance of this research, an Informed Consent form have to be read and accepted before all the annotation task.
 
