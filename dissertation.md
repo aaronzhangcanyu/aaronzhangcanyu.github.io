@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dissertation/index.html
-title: My Dissertation
+title: Dissertation
 ---
 
 # My Dissertation
