@@ -12,31 +12,31 @@ title: Informed_consent
 
 **Purpose of the research**: My research project aims to help us develop a better understanding of how clickbait practice within WeChat articles through (1) collecting and annotating a publicly available clickbait corpus for WeChat articles, and (2) developing a clickbait detection model and evaluating its performance against the ground truth. I am also interested in interpreting the clickbait practice using the detection model from both quantitative and qualitative perspectives. 
 
-**Who will be participating\?**
+**Who will be participating?**
 
 I am inviting adults over the age of 18 who are native speakers of Chinese, fluent speakers of English, and regular WeChat users.
 
-**What will you be asked to do\?**
+**What will you be asked to do?**
 
 I will ask you to annotate 300 WeChat article headlines between “clickbait” and “non-clickbait”. You will complete this task via the Figure Eight platform. This task will take about 30 minutes.
 
-**What are the potential risks of participating\?**
+**What are the potential risks of participating?**
 
 The risks of participating are the same as those experienced in everyday life and you are free to stop the task at any point.
 
-**What data will I collect\?**
+**What data will I collect?**
 
 I will collect your annotations to the provided WeChat article headlines. I will not ask you to provide any identifying information, and when I download the data from Figure Eight platform I will delete your user name, so the responses to the tasks will then be anonymous.
 
-**What will I do with the data\?**
+**What will I do with the data?**
 
 I will use the annotation data as a labelled corpus to build a clickbait detection model in my master’s dissertation. The data will be stored on the Information School's research data drive which can be accessed only by me, my supervisor, and the School's Examinations Officer and ICT staff operating the facility. I will also store an encrypted password protected back up copy on my personal laptop. This data will be publicly available on my GitHub account [aaronzhangcanyu] after 1 month of my degree being awarded.
 
-**Will my participation be confidential\?**
+**Will my participation be confidential?**
 
 When I download your responses from Figure Eight platform, I will delete your user name, so your responses will not be linked back to you. No other potentially identifying information will be collected as part of this task.
 
-**What will happen to the results of the research project\?**
+**What will happen to the results of the research project?**
 
 The results of this study will be included in my master’s dissertation and will be likely to lead to publication in a peer-reviewed journal which will be publicly available. If you have any problems about this research project, please contact the Information School in six months.
 
