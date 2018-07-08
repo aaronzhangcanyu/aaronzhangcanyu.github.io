@@ -7,15 +7,11 @@
 {% include head.html %}
 </head>
 <script>
-function btnAction(){
-alert(document.getElementById("xz").disabled);
-alert(2);
-}
 function check(){
 //判断checkbox有没有被选中
 if(document.getElementById("ch").checked==true)
 {
-document.getElementById("xz").disabled="";//给BUTTON按钮的disabled属性赋值
+document.getElementById("xz").disabled="";
 }else
 {
 document.getElementById("xz").disabled="disabled";
@@ -44,10 +40,6 @@ document.getElementById("xz").disabled="disabled";
   {% endcomment %}
     <div class="article-wrap" itemprop="text">
       {{ content }}
-      <form action="/action_page.php">
-        <input type="checkbox" name="vehicle1" value="Bike"> <strong>I agree to take part in the research project as described above.</strong><br>
-      </form>
-      <input type="submit" value="Continue" onclick="location.href='https://www.baidu.com'">
       <input name="check" id="ch" type="checkbox" onclick="check()"/> <strong>I agree to take part in the research project as described above.</strong><br>
       <input type="button" value="Continue" onclick="location.href='https://www.baidu.com'" id="xz" disabled="disabled"/>
     </div><!-- /.article-wrap -->
