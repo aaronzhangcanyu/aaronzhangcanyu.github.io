@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page1
 permalink: /informed_consent/index.html
 title: Informed Consent
 ---
