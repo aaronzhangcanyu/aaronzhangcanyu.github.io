@@ -1,37 +1,37 @@
 ---
 layout: page
+permalink: /informed_consent/index.html
+title: Informed_consent
 ---
 
-# About Me
+# Informed Consent
 
-<img src="/images/jasonansel3.jpg" class="floatpic" width="200" height="200">
-My name is Jason Ansel.  I am a Director of Engineering at GoDaddy, which
-I joined in 2013 as part of the [acquisition] of the startup [Locu][locu].
-I started working for Locu in 2011, while I was simultaneously pursuing
-my PhD at [MIT][MIT] [CSAIL][CSAIL], which I completed in 2013.  I was the
-first non-founder employee of Locu and my work there and at GoDaddy focuses
-on creating machine learning algorithms for extracting semantic information
-from unstructured web content.
+Project: Clickbait Detection and Exploration on WeChat Articles 
+Researcher: Canyu Zhang (University of Sheffield, czhang67@sheffield.ac.uk); Supervisor: Prof. Paul Clough (University of Sheffield, p.d.clough@sheffield.ac.uk) 
+Purpose of the research. My research project aims to help us develop a better understanding of how clickbait practice within WeChat articles through (1) collecting and annotating a publicly available clickbait corpus for WeChat articles, and (2) developing a clickbait detection model and evaluating its performance against the ground truth. I am also interested in interpreting the clickbait practice using the detection model from both quantitative and qualitative perspectives. 
+Who will be participating? 
+I am inviting adults over the age of 18 who are native speakers of Chinese, fluent speakers of English, and regular WeChat users.
+What will you be asked to do? 
+I will ask you to annotate 300 WeChat article headlines between “clickbait” and “non-clickbait”. You will complete this task via the Figure Eight platform. This task will take about 30 minutes.
+What are the potential risks of participating? 
+The risks of participating are the same as those experienced in everyday life and you are free to stop the task at any point.
+What data will I collect? 
+I will collect your annotations to the provided WeChat article headlines. I will not ask you to provide any identifying information, and when I download the data from Figure Eight platform I will delete your user name, so the responses to the tasks will then be anonymous.
+What will I do with the data? 
+I will use the annotation data as a labelled corpus to build a clickbait detection model in my master’s dissertation. The data will be stored on the Information School's research data drive which can be accessed only by me, my supervisor, and the School's Examinations Officer and ICT staff operating the facility. I will also store an encrypted password protected back up copy on my personal laptop. This data will be publicly available on my GitHub account [aaronzhangcanyu] after 1 month of my degree being awarded.
+Will my participation be confidential? 
+When I download your responses from Figure Eight platform, I will delete your user name, so your responses will not be linked back to you. No other potentially identifying information will be collected as part of this task.
+What will happen to the results of the research project? 
+The results of this study will be included in my master’s dissertation and will be likely to lead to publication in a peer-reviewed journal which will be publicly available. If you have any problems about this research project, please contact the Information School in six months.
+Declaration of consent
 
-I spend some of my free time working on [OpenTuner], an extensible framework
-for program autotuning.  We are currently looking for users, if interested
-the source code is available on the [OpenTuner] site.
+•	I confirm that I have read and understand the description of the research project, and that I have had an opportunity to ask questions about the project.
+•	I understand that my participation is voluntary and that I am free to withdraw before July 31, 2018 without any negative consequences. 
+•	I understand that if I withdraw I can request for the data I have already provided to be deleted, however this might not be possible if the data has already been anonymised or findings published.
+•	I understand that I may decline to answer any particular question or questions, or to do any of the activities. 
+•	I understand that my responses will be kept strictly confidential, that my name or identity will not be linked to any research materials, and that I will not be identified or identifiable in any report or reports that result from the research, unless I have agreed otherwise.
+•	I give permission for all the research team members to have access to my responses.
+•	I give permission for the research team to re-use my data for future research as specified above.
 
-As part of my PhD dissertation, I started the [PetaBricks] language and
-compiler project.  PetaBricks is a language that incorporates algorithmic
-choices to allow an integrated autotuner to explore search spaces of program
-implementations.  As an undergraduate I did research with [Gene Cooperman]
-and helped create [DMTCP], a user-level distributed checkpoint/restart system.
-
-
-[acquisition]: http://allthingsd.com/20130819/godaddy-acquires-merchant-finder-startup-locu-for-70-million/
-[CSAIL]: http://www.csail.mit.edu/
-[DMTCP]: http://dmtcp.sourceforge.net/
-[Gene Cooperman]: http://www.ccs.neu.edu/home/gene/
-[Locu]: http://locu.com/
-[MIT]: http://www.mit.edu/
-[OpenTuner]: http://opentuner.org/
-[PetaBricks]: http://projects.csail.mit.edu/petabricks/
-[Commit]: http://groups.csail.mit.edu/commit/
-[Saman Amarasinghe]: http://people.csail.mit.edu/saman/
+I agree to take part in the research project as described above.
 
