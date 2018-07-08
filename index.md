@@ -18,7 +18,7 @@ I have already achieved a distinction result for my pre-sessional course
 and an averaging distinction level for all modules. At the present stage, 
 I am working on my master dissertation and the research topic is 
 "Clickbait Detection and Exploration on WeChat Articles". 
-For further information about my research project, please click [here].
+For further information about my project, please click [here].
 
 
 
