@@ -16,9 +16,9 @@ Natural language processing and machine learning technologies will be used to bu
 The task has been manipulated on a platform called [Figure Eight]. To participate as a contributor, please read the [instructions] of the platform carefully at first. For protecting your privacy and keeping the ethics stance of this research, an [Informed Consent] form have to be read and accepted before all the annotation task. Your kind help would be very significant for my research now and also would be a great motivation for my life in the future. If you are interested or have any questions about my project, please feel free to email me at czhang67@sheffield.ac.uk.
 
 
-[Clickbait]: https://en.wikipedia.org/wiki/Clickbait/
+[Clickbait]: https://en.wikipedia.org/wiki/Clickbait
 [Facebook]: https://newsroom.fb.com/news/2017/05/news-feed-fyi-new-updates-to-reduce-clickbait-headlines/
-[gsdata.cn]: http://www.gsdata.cn/rank/wxarc/
-[Figure Eight]: https://www.figure-eight.com/
+[gsdata.cn]: http://www.gsdata.cn/rank/wxarc
+[Figure Eight]: https://www.figure-eight.com
 [instructions]: https://aaronzhangcanyu.github.io/contribution/
 [Informed Consent]: https://aaronzhangcanyu.github.io/informed_consent/
