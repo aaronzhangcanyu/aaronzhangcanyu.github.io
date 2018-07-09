@@ -15,7 +15,7 @@ My latest finished projects including a trend prediction of Sheffield’s bicycl
 a risk factors analysis of late life long-term sleep disorder, 
 and a prediction of Titanic survivals based on a competition in [Kaggle]. 
 I have already achieved a distinction result for my pre-sessional course 
-and an average distinction level for all lecture modules. At the present stage, 
+and an average distinction level for all the lecture modules. At the present stage, 
 I am working on my master dissertation and the research topic is 
 "Clickbait Detection and Exploration on WeChat Articles". 
 For further information about my project, please click [here].
