@@ -11,6 +11,7 @@ I am studying MSc Data Science in [Information School]
 and my research interests are mainly around computational social science, 
 also called social data science, which aims to generate theory-informed predictive models 
 and underpin the way we understand and solve social problems. 
+
 My latest finished projects including a trend prediction of Sheffield’s bicycle thefts, 
 a risk factors analysis of late life long-term sleep disorder, 
 and a prediction of Titanic survivals based on a competition in [Kaggle]. 
