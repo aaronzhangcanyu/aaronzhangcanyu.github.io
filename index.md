@@ -22,8 +22,8 @@ For further information about my project, please click [here].
 
 
 
-[Information School]: https://www.sheffield.ac.uk/is/
-[TUOS]: https://www.sheffield.ac.uk/
+[Information School]: https://www.sheffield.ac.uk/is
+[TUOS]: https://www.sheffield.ac.uk
 [here]: https://aaronzhangcanyu.github.io/dissertation/
-[Kaggle]: https://www.kaggle.com/c/titanic/
+[Kaggle]: https://www.kaggle.com/c/titanic
 
