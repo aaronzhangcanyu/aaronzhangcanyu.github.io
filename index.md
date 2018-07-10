@@ -19,12 +19,12 @@ I have already achieved a distinction result for my pre-sessional course
 and an average distinction level for all the lecture modules. At the present stage, 
 I am working on my master dissertation and the research topic is 
 "Clickbait Detection and Exploration on WeChat Articles". 
-For further information about my project, please click [here].
+For further information about my project, please click here [<img src="/images/Paper_Plane-512.png" alt align="absmiddle" width="16" height="16">].
 
 
 
 [Information School]: https://www.sheffield.ac.uk/is
 [TUOS]: https://www.sheffield.ac.uk
-[here]: https://aaronzhangcanyu.github.io/dissertation/
+[<img src="/images/Paper_Plane-512.png" alt align="absmiddle" width="16" height="16">]: https://aaronzhangcanyu.github.io/dissertation/
 [Kaggle]: https://www.kaggle.com/c/titanic
 
