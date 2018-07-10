@@ -7,7 +7,7 @@ title: Contribution
 # Make Contribution
 
 Thanks for making contribution on my research, “Clickbait Detection and Exploration on WeChat Articles”, which is supervised by Professor [Paul Clough]. This data annotation task is deployed on a crowdsourcing platform called Figure Eight, so you have to sign up for a contributor account first. Please click here [<img src="/images/signupIcon.png" alt align="absmiddle" width="16" height="16" target="_blank">] to become a contributor using your email address.
-<a href="http://github.com/aaronzhangcanyu" target="_blank"><i class="icon-github"></i> Github</a>
+<a href="https://tasks.figure-eight.work/users/new" target="_blank"><img src="/images/signupIcon.png" alt align="absmiddle" width="16" height="16"></a>
 
 
 
