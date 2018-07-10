@@ -13,7 +13,7 @@ As a pioneer of the backlash against clickbait, [Facebook] has updated its News 
 
 Natural language processing and machine learning technologies will be used to build a detection model to distinguish a clickbait heandline automatically. I have already collected around 18,000 popular WeChat article headlines from 24 different categories and 34 different registered locations of WeChat subscription accounts according to the rank list on [gsdata.cn]. For building the detection model, a small part of the headlines should be labelled as clickbait or non-clickbait, and which needs your contribution on this data annotation task. 
 
-The task has been manipulated on a platform called [Figure Eight]. To participate as a contributor, please click here [<img src="/images/hand.png" alt align="absmiddle" width="20" height="20">] to read the contribution page carefully at first. For protecting your privacy and keeping the ethics stance of this research, an Informed Consent [<img src="/images/img_415489.png" alt align="absmiddle" width="16" height="16">] form has to be read and accepted before starting the annotation task. Your kind help would be significant for my research now and a great motivation for my life in the future. If you are interested or have any questions about my project, please feel free to email me at czhang67@sheffield.ac.uk.
+The task has been manipulated on a platform called [Figure Eight]. To participate as a contributor, please click here [<img src="/images/hand.png" alt align="absmiddle" width="20" height="20">] to read the contribution page carefully at first. Your kind help would be significant for my research now and a great motivation for my life in the future. If you are interested or have any questions about my project, please feel free to email me at czhang67@sheffield.ac.uk.
 
 
 [Clickbait]: https://en.wikipedia.org/wiki/Clickbait
@@ -21,4 +21,3 @@ The task has been manipulated on a platform called [Figure Eight]. To participat
 [gsdata.cn]: http://www.gsdata.cn/rank/wxarc
 [Figure Eight]: https://www.figure-eight.com
 [<img src="/images/hand.png" alt align="absmiddle" width="20" height="20">]: https://aaronzhangcanyu.github.io/contribution/
-[<img src="/images/img_415489.png" alt align="absmiddle" width="16" height="16">]: https://aaronzhangcanyu.github.io/informed_consent/
