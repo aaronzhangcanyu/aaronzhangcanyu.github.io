@@ -20,5 +20,5 @@ The task has been manipulated on a platform called [Figure Eight]. To participat
 [Facebook]: https://newsroom.fb.com/news/2017/05/news-feed-fyi-new-updates-to-reduce-clickbait-headlines/
 [gsdata.cn]: http://www.gsdata.cn/rank/wxarc
 [Figure Eight]: https://www.figure-eight.com
-[<img src="/images/hand.png" alt align="absmiddle" width="16" height="16">]: https://aaronzhangcanyu.github.io/contribution/
+[<img src="/images/hand.png" alt align="absmiddle" width="20" height="20">]: https://aaronzhangcanyu.github.io/contribution/
 [<img src="/images/img_415489.png" alt align="absmiddle" width="16" height="16">]: https://aaronzhangcanyu.github.io/informed_consent/
