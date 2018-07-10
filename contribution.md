@@ -14,4 +14,4 @@ For protecting your privacy and keeping the ethics stance of this research, an I
 
 
 [Paul Clough]: https://www.sheffield.ac.uk/is/staff/clough
-
+[<img src="/images/img_415489.png" alt align="absmiddle" width="16" height="16">]: https://aaronzhangcanyu.github.io/informed_consent/
