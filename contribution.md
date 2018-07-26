@@ -12,7 +12,9 @@ For protecting your privacy and keeping the ethics stance of this research, an I
 
 The maximum number of the task you can complete is 10, i.e. 500 headlines presented in 10 pages, and you can decide your own task number flexibly according to your personal situation. You can leave jobs at any time, but you will only be credited for the tasks you've completed. If you want to continue the contribution on more tasks another time, just come back to the Informed Consent page, click on the continue botton and sign in your previous Figure Eight account. Enjoy your data annotation journey and have a cup of coffee. It's my treat if you want, many thanks!
 
-***PS:*** *The data annotation task has finished now. Thanks for your contribution! If you have any problems with your annotation data, please feel free to contact me by czhang67@sheffield.ac.uk.*
+***PS:*** *The data annotation task has finished now. Thanks for your contribution! If you have any problems with your annotation data, please feel free to contact me by czhang67@sheffield.ac.uk.* 
+
+`\today`
 
 
 
