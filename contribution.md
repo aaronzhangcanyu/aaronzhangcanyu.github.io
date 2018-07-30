@@ -14,7 +14,7 @@ The maximum number of the task you can complete is 10, i.e. 500 headlines presen
 
 ------
  
-***Update:*** *The data annotation task has finished now. Thanks for your contribution! If you have any problems with your annotation data, please feel free to contact me by czhang67@sheffield.ac.uk.*  
+***Updates:*** *The data annotation task has finished now. Thanks for your contribution! If you have any problems with your annotation data, please feel free to contact me by czhang67@sheffield.ac.uk.*  
 
 <p align="right"><i>26/07/2018</i></p>
 
