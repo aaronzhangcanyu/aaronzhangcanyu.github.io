@@ -6,7 +6,7 @@ layout: page
 
 My name is Canyu Zhang (Aaron), a master candidate in [TUOS]. I have a multi-disciplinary background with the
 knowledge and experience across information technology and social science. 
-I am studying Data Science in [Information School] and my research interests are mainly around computational social science, 
+As a Data Science student in [Information School], my research interests are mainly around computational social science, 
 also called social data science, which aims to generate theory-informed predictive models 
 and underpin the way we understand and solve social problems. 
 
